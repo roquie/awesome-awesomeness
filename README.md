@@ -175,6 +175,7 @@ A curated list of amazingly awesome awesomeness.
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
+	- [Kontena](https://github.com/matti/awesome-kontena)
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
